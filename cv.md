@@ -52,3 +52,12 @@ During study in rsschool I’ve learnt **HTML course** for beginners at [https:/
 #### Education  
 
 2010-2015 Belarus State Economic University  -  specialist of intercultural business-communication
+
+#### Level of language: 
+<ol>
+<li> English B1-B2</li>
+<li> Spanish A2</li>
+</ol>
+I had an experience in English translating as an Interpreter-volunteer: maintenance of the team during their staying in Belarus, translation on basic topics (in the hotel, shop, pharmacy, bank, cafe, etc.).
+
+Also have experience of translation during business-meetings, conferences.
