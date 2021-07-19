@@ -18,3 +18,37 @@ Usually, I go into detail, scrupulous, try to complete any deal. I feel rather e
 Unfortunately, I have no experience in development for now, but I hope it will be in future.
 
 During study in rsschool I’ve learnt **HTML course** for beginners at [https://ru.code-basics.com/languages/html](https://ru.code-basics.com/languages/html).
+
+>As an example:
+
+<!DOCTYPE html>
+
+<html lang="ru">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title> Сказки народов мира </title>
+
+</head>
+
+<body>
+
+<h1>Сказки</h1>
+
+<ul>
+
+<li>Алиса в стране чудес</li>
+
+<li>Винни-пух</li>
+
+<li>Дюймовочка</li>
+
+</ul>
+
+</body>
+
+#### Education  
+
+2010-2015 Belarus State Economic University  -  specialist of intercultural business-communication
