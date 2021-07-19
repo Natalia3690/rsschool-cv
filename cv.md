@@ -21,7 +21,7 @@ During study in rsschool I’ve learnt **HTML course** for beginners at [https:/
 
 >As an example:
 
-```<!DOCTYPE html>
+``` <!DOCTYPE html>
 <html lang="ru">
     <head>
         <meta charset="UTF-8">
@@ -35,7 +35,8 @@ During study in rsschool I’ve learnt **HTML course** for beginners at [https:/
             <li>Дюймовочка</li>
         </ul>
     </body>
-</html>```
+</html> 
+```
 
 #### Education  
 
