@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+  
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+      sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    line-height: 1.5;
+    word-wrap: break-word;
+    margin:0;
+  }
+  
+  figure {
+    margin: 0;
+  }
+  
+  img {
+    width: 180px;
+    /* aspect-ratio: auto 180 / 191; */
+    height: 191px;
+  }
+  pre {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0px;
+  }
+  
+  div {
+    display: block;
+  }
+  .body {
+    color: #121a22;
+    background-color: #fff;
+  }
+  .highlight {
+    background-color: #dad6d6;
+  }
+  
+  .container {
+    max-width: 780px;
+    margin: 0 auto;
+  }
+  
+  .header {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .header-body {
+    display: flex;
+  }
+  
+  .header-picture {
+    display: inline-block;
+    margin-right: 100px;
+  }
+  
+  .header-contacts {
+    font-size: 24px;
+  }
+  
+  .footer {
+    max-width: 780px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+  }
+  
+  .container--footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    background-color: #dad6d6;
+  }
+  
+  .footer__links {
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer__rsschool {
+    height: 30px;
+  }
+  
